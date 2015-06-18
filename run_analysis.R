@@ -1,4 +1,4 @@
-
+  
 ##Title:    Getting and Cleaning Data Course Project 
 #Author:    SMM
 #Date:      06/18/2015
